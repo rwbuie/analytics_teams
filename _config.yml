@@ -30,7 +30,8 @@ plugins:
 
 # minima specific options
 header_files:
-
+  - index.md
+  - about.md
 
 
 # Exclude from processing.
