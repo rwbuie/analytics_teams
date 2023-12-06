@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Introduction
-permalink: /about/
+title: Summary
+permalink: /summary/
 ---
+
 This is the about page
