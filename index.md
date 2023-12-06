@@ -5,22 +5,11 @@
 layout: home
 ---
 
-## Welcome!
-
-jijij
-
-## this is level 2
-
-### level 3
-
 This is a landing page for a study of Performnce and Organiaitonal Characteristics of Analytics Teams in Healthcare and Population Health.
-tggr
-grgr
 
-grgr
+# Key Information
 
-
-This site provides important information to potential participants and their home organizations so that they can make an informed decision regarding enrollment into the study.
+This site provides important information so that potential participants, and their organizations, can make an informed decision regarding enrollment into the study.
 
 
 
