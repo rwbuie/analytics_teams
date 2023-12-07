@@ -19,7 +19,7 @@ Approved by University of Washington IRB: STUDY00015689
 
 # Participation
 
-Participation is expected to include one or more interviews, each lasting 30-90 minutes. Additionally, participants may be asked to provide work samples, respond to surveys, or participate in focus groups. For most participants, involvement in the study is expected to take between 2 and 5 hours over the course of a year. Participation is expected to be remote, through video chat, email, and phone calls. 
+Participation is expected to include one or more interviews, each lasting 30-90 minutes. Additionally, participants may be asked to provide work samples, respond to surveys, and participate in focus groups. For most participants, involvement in the study is expected to take between 2 and 5 hours over the course of a year. Participation is expected to be remote, through video chat, email, and phone calls. 
 
 For details regarding the study's oversight and risks please review the [privacy and risks] page. 
 

@@ -5,15 +5,15 @@
 layout: home
 ---
 
-This is a landing page for those wishing to learn about the study **Performance and Organizational Characteristics of Analytics Teams in Healthcare and Population Health**.
+This is a landing page for the study **Performance and Organizational Characteristics of Analytics Teams in Healthcare and Population Health**.
 
 This study is being conducted by [Ronald W. Buie], an epidemiologist with Public Health Seattle & King County and a PhD Candidate at the University of Washington, School of Medicine, Department of Biomedical Informatics and Medical Education.
 
 # Key Information
 
-This site provides important information so that potential participants, and their organizations, can make an informed decision regarding enrollment into the study.
+This site provides important information so potential participants, and their organizations, can make an informed decision regarding enrollment into the study.
 
-You can review and share a **[summary of the study]**.
+You can review a **[summary of the study]**.
 
 Information about privacy, security, and participant rights are available in the **[privacy and risk]** page.
 
