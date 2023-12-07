@@ -18,9 +18,11 @@ email: buierw@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A study of the work and organizational characteristics of analytics and data science teams across the health services
 baseurl: "/health_analytics_teams" # the subpath of your site, e.g. /blog
+basewebsite: /health_analytics_teams
 url: "https://rwbuie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  rwbuie
+linkedon_username: rwbuie
 
 # Build settings
 markdown: kramdown
