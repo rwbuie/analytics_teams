@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Front Matter
 ---
-
 
 This is a landing page for the study **Performance and Organizational Characteristics of Analytics Teams in Healthcare and Population Health**.
 

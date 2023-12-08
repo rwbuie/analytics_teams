@@ -16,11 +16,7 @@ If interested in participating, please review the below checklist to see if you 
 
 4. Are these stakeholders operating in the state of Washington or serving residents of Washington or Washington based organizations?
 
-If your answers to all of the above questions are “yes”, then your team is likely to be a good fit for the study. If you are interested in learning more or participating, please reach out and I can arrange a follow up meeting to provide additional information and discuss next steps.
-
-If your answer to the last question was “no” but the other questions were “yes”, then your team is not a good fit at this stage, but we are considering a possible expansion of scope beyond the state of Washington. Please also let me know if interested. I can provide information now and reach out again later if the project scope expands beyond the state of Washington.
-
-If you answered “no” to any of questions 1-3 then your team may not likely be a fit for the study.
-
+If your answers to all of the above questions are “yes”, then your team is likely to be a good fit for the study. If you are interested in learning more or participating, please [reach out] and we can arrange a follow up meeting to provide additional information and discuss next steps.
 
 [download]: {{ site.baseurl }}/assets/documents
+[reach out]: mailto:buierw@uw.edu

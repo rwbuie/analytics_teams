@@ -4,7 +4,11 @@ title: Privacy and Risks
 permalink: /privacy_risks/
 ---
 
-# **Study Title: Performance and organizational characteristics of analytics teams in healthcare and population health**
+## Summary
+
+- Through interviews and the sharing of work samples, you may expose proprietary information to researchers
+- Your information may be deidentified and retained past conclusion of the study and used in secondary research
+- Your identity, and that of your organization, will not be used publicly (e.g. in publication) without your explicit consent
 
 ## PURPOSE OF THE STUDY
 
