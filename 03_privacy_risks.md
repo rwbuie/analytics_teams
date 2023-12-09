@@ -2,7 +2,6 @@
 layout: page
 title: Privacy and Risks
 permalink: /privacy_risks/
-navigation_weight: 3
 ---
 
 ## Summary
