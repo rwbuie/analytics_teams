@@ -2,7 +2,7 @@
 layout: page
 title: Privacy and Risks
 permalink: /privacy_risks/
-order: 02
+order: 2
 ---
 
 ## Summary

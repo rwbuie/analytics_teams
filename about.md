@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-order: 04
+order: 4
 ---
 
 [Ronald Buie] - Epidemiologist
