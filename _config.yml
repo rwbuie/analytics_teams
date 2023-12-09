@@ -34,7 +34,6 @@ plugins:
 
 # minima specific options
 header_pages:
-#  - index.md
   - summary.md
   - privacy_risks.md
   - prescreen.md

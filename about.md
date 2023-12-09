@@ -4,4 +4,13 @@ title: About
 permalink: /about/
 ---
 
-comming soon...
+[Ronald Buie] - Epidemiologist
+![photo here]
+
+Commitee:
+Annie Chen - Chair
+Mark Zachry
+Eugene Day
+Briah Shirts
+
+[Ronald Buie]: 
