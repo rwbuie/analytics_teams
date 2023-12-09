@@ -2,6 +2,7 @@
 layout: page
 title: Project Summary
 permalink: /summary/
+order: 1
 ---
 
 # Purpose and expected outcomes

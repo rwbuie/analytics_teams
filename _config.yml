@@ -33,11 +33,11 @@ plugins:
   - jekyll-feed
 
 # minima specific options
-header_pages:
-  - summary.md
-  - privacy_risks.md
-  - prescreen.md
-  - about.md
+#header_pages:
+#  - summary.md
+#  - privacy_risks.md
+#  - prescreen.md
+#  - about.md
 
 
 # Exclude from processing.
