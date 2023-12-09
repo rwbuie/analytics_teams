@@ -2,7 +2,7 @@
 layout: page
 title: Prescreening
 permalink: /prescreen/
-order: 3
+navigation_weight: 4
 ---
 
 The following checklist is designed to help identify people and organizations who are appropriate fits for the study.
