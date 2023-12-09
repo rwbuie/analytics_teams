@@ -23,7 +23,7 @@ And of course, you might like to know more **[about the people]** conducting thi
 
 
 [Ronald W. Buie]: https://bime.uw.edu/students/ronald-buie-2/
-[summary of the study]: {{ site.baseurl }}/summary
-[prescreen]: {{ site.baseurl }}/prescreen
-[privacy and risk]: {{ site.baseurl }}{% link privacy_risks.md %}
-[about the people]: {{ site.baseurl }}.about
+[summary of the study]: {{ site.baseurl }}/summary/
+[prescreen]: {{ site.baseurl }}/prescreen/
+[privacy and risk]: {{ site.baseurl }}/privacy_risks/
+[about the people]: {{ site.baseurl }}/about/

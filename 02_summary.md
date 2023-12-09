@@ -23,4 +23,4 @@ Participation is expected to include one or more interviews, each lasting 30-90 
 
 For details regarding the study's oversight and risks please review the [privacy and risks] page. 
 
-[privacy and risks]: {{ site.baseurl }}{% link privacy_risks.md %}
+[privacy and risks]: {{ site.baseurl }}/privacy_risks
