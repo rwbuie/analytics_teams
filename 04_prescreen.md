@@ -10,7 +10,7 @@ If interested in participating, please review the below checklist to see if you 
 
 1. Are you a direct contributor, or manager, of an analytics team, department, or unit?
 
-1. Are there one of more members of your team who would be comfortable with participating in formal research and able to contribute 2-5 hours to participating in research activities?
+1. Are you willing and able to contribute 2-5 hours to participate in research activities?
 
 2. Are there one or more projects or operations that you are willing to share details about in the contexts of academic research (note that participants are free to redact information in part, or whole, from their research record, and that researchers will not publish non-generalized information without participant consent)?
 
