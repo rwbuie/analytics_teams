@@ -30,8 +30,8 @@ linkedin_username: rwbuie
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-target-blank
   - jekyll-feed
+#  - jekyll-target-blank
 
 # minima specific options
 header_pages:

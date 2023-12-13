@@ -43,4 +43,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.8"
 
 #make external links open in a new window
-gem "jekyll-target-blank"
+# gem "jekyll-target-blank"
