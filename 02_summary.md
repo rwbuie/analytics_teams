@@ -8,8 +8,6 @@ permalink: /summary/
 
 # Purpose and expected outcomes
 
-This study aims to create a generalized description of the work of analytics teams in population health and clinical environments. These data will be used to develop improved models and recommendations for best practices for how we structure and manage analytics teams in the health services with a goal of ultimately reducing failure rates and expanding the benefits of our work.
-
 This study aims to create a generalized description of the work of analytics teams in population health and clinical environments. Such work is expected to lead to improved models and practices for the structure and management of analytics teams in population health and clinical care organizations.
 
 This study is part of a dissertation in Biomedical and Health Informatics at The University of Washington. It is overseen by a dissertation committee, chaired by Annie T. Chen, faculty in the department of Biomedical Informatics and Medical Education.

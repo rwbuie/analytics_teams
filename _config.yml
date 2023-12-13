@@ -33,7 +33,6 @@ plugins:
   - jekyll-target-blank
   - jekyll-feed
 
-
 # minima specific options
 header_pages:
   - 01_front.md
