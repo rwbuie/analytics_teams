@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-
 # Lead researcher
 
 Ronald W. Buie

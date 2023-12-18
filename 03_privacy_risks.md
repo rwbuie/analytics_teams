@@ -11,4 +11,4 @@ permalink: /privacy_risks/
 
 You may view details of these policies by downloading a copy of the [consent agreement].
 
-[consent agreement]: {{ site.baseurl }}/assets/documents/Research Participant Consent Form.pdf
+[consent agreement]: {{ site.baseurl }}/assets/documents/Offline Research Participant Consent Form.pdf

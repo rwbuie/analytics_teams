@@ -4,7 +4,7 @@ title: Project Summary
 permalink: /summary/
 ---
 
-
+You can also [download a pdf] of the below information for distribution.
 
 # Purpose and expected outcomes
 
@@ -20,10 +20,13 @@ Researcher(s) will collect descriptions and materials related to the work, deliv
 
 # Participation
 
-Participation is expected to include one or more interviews, each lasting 30-90 minutes. Additionally, participants may be asked to provide work samples, respond to surveys, and participate in focus groups. For most participants, **involvement in the study is expected to take between 2 and 5 hours over the course of a year**. Participation is expected to be remote, through video chat, email, and phone calls. 
+Participation is expected to include one or more interviews, each lasting 30-90 minutes. Additionally, participants may be asked to provide work samples, respond to surveys, or participate in focus groups. For most participants, **involvement in the study is expected to take between 2 and 5 hours over the course of a year**. Participation is expected to be remote through video chat, email, web forms, and phone calls. 
 
 For details regarding the study's oversight and risks please review the [privacy and risks] page. 
 
 Approved by The University of Washington IRB: STUDY00015689
 
 [privacy and risks]: {{ site.baseurl }}/privacy_risks
+
+[download a pdf]: {{ site.baseurl }}/assets/documents/Study introduction.pdf
+
